@@ -3,8 +3,6 @@
 
 
 import sys
-egg_path_geneticalgorithm='/data_lab/users/m.vadhel/.deepenv/lib/python3.6/site-packages'
-sys.path.append(egg_path_geneticalgorithm)
 
 
 
