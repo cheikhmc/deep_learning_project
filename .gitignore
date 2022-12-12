@@ -1,10 +1,5 @@
 # Temporary and binary files
 *~
-*.png
-*.jpg
-*.jpeg
-*.JPEG
-*.PNG
 *.py[cod]
 *.so
 *.env
