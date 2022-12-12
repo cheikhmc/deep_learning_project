@@ -201,7 +201,7 @@ plt.plot(epochs_range, val_loss, label='Validation Loss')
 plt.legend(loc='upper right')
 plt.title('Training and Validation Loss')
 plt.show()
-plt.savefig('accuracy_first_model.png')
+plt.savefig('images/accuracy_first_model.png')
 
 
 import os
