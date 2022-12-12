@@ -15,6 +15,6 @@ The model used is stored in the folder models with the filename: `transfer_learn
 ### DEMO
 
 <p align="center">
-    <img alt="TotalEnergies" src="demo.png" width="256" />
+    <img alt="Demo" src="demo.png" width="256" />
   </a>
 </p>
