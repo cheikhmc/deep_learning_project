@@ -13,4 +13,8 @@ The model used is stored in the folder models with the filename: `transfer_learn
 
 
 ### DEMO
-![Screenshot](demo.png)
+
+<p align="center">
+    <img alt="TotalEnergies" src="demo.png" width="256" />
+  </a>
+</p>
