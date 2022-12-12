@@ -15,6 +15,6 @@ The model used is stored in the folder models with the filename: `transfer_learn
 ### DEMO
 
 <p align="center">
-    <img alt="Demo" src="demo.png" width="256" />
+    <img alt="Demo" src="https://github.com/cheikhmc/deep_learning_project/blob/master/demo.PNG" width="256" />
   </a>
 </p>
